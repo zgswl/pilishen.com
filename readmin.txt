@@ -5,6 +5,8 @@
 
 www.ctolife.cn/var/git/pilishen.com.git
 
+
+新建立的readme.txt文件，修改后不需要提交的处理。
 git status
 
 git rm readme.txt --cached
