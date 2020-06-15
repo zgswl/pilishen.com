@@ -10,3 +10,8 @@ www.ctolife.cn/var/git/pilishen.com.git
 git status
 
 git rm readme.txt --cached
+
+
+git help add
+
+
